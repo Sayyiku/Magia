@@ -129,8 +129,8 @@ const ChapterHome: React.FC<{}> = ({}) => {
         </div>
       </div>
       <div className="chapter-home-links">
-        <a className="chapter-home-links-icon-wrap" title="Profile" href="https://cyris.moe" target="_blank"><i className="czs-game"></i></a>
-        <a className="chapter-home-links-icon-wrap" title="GitHub" href="https://github.com/iCyris" target="_blank"><i className="czs-github-logo"></i></a>
+        <a className="chapter-home-links-icon-wrap" title="Profile" href="https://lycoirs.moe/" target="_blank"><i className="czs-game"></i></a>
+        <a className="chapter-home-links-icon-wrap" title="GitHub" href="https://github.com/Sayyiku" target="_blank"><i className="czs-github-logo"></i></a>
       </div>
     </div>
   );
